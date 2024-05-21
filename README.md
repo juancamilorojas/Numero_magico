@@ -9,6 +9,7 @@ Se desarrolló un juego de adivinanza donde el usuario intenta adivinar un núme
 - Condicionales.
 - Listas y el método append().
 - Bucles (while).
+  
 #Pasos a seguir:
 1. Importar el módulo random: Este módulo es esencial ya que nos permite generar el número ganador de forma aleatoria.
 2. Configurar el número ganador: Utilizamos la función random.randint(numero_minimo, numero_maximo) para generar un número aleatorio dentro de un rango especificado, en este caso, entre 0 y 100.
